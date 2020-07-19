@@ -1,7 +1,7 @@
 ### Hi there 👋
  I am a Lead frontend enginner [@Kissflow](https://www.linkedin.com/company/kissflow/).
  
-## Building web app with
+## Right now building web apps using following stack
   * React
   * Webpack
   * NodeJs
