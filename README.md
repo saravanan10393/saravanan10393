@@ -1,7 +1,7 @@
 ### Hi there 👋
- I am a Lead frontend enginner [@Kissflow](https://www.linkedin.com/company/kissflow/).
+ I am a Team Lead [@Kissflow](https://www.linkedin.com/company/kissflow/).
  
-## Right now building web apps using following stack
+## Right now building LowCode - NoCode Platform with following stack
   * React
   * Webpack
   * NodeJs
